@@ -7,7 +7,7 @@ I have reviewed the HTML and CSS provided to ensure they follow semantic structu
 To view the Horiseon home page:
 
 1) Clone this repository to your local environment using
-   git clone git@github.com:swhite45/Horiseon-home-page.git
+   " git clone git@github.com:swhite45/Horiseon-home-page.git "
 
 2) Follow the URL link below to view the home page on your web browser 
 
