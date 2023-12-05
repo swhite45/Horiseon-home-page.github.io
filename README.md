@@ -13,6 +13,8 @@ To view the Horiseon home page:
 
 2) Follow the URL link below to view the home page on your web browser
 
+https://swhite45.github.io/Horiseon-home-page.github.io/
+
 
 <h2> Usage </h2>
 
