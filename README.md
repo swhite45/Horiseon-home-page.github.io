@@ -13,7 +13,7 @@ Usage
 To navigate the website, you can scroll up and down and the navigation bar will remain fixed in place.
 You can click on any of the three headings in the navigation bar and they will take you to their sections in the main content. 
 
-Credits 
+<h2> Credits </h2>
 All work created by swhite45
 
 License
