@@ -6,8 +6,6 @@ I have reviewed the HTML and CSS provided to ensure they follow semantic structu
 <h2> Installation </h2>
 To view the Horiseon home page:
 
-
-
 1) Clone this repository to your local environment using
    git clone git@github.com:swhite45/Horiseon-home-page.git
 
