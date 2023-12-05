@@ -4,11 +4,13 @@ This is the home page for Horiseon Social Solution Services Inc. My goal was to 
 I have reviewed the HTML and CSS provided to ensure they follow semantic structure. I have included alt text for the images provided, fixed the navigation bar to the top of the screen and reviewed all links to ensure they function as required. I have also added comments to both files to provide for easier reading. 
 
 <h2> Installation </h2>
-To view the Horiseon home page:\
-<br>
+To view the Horiseon home page:
+
+
+
 1) Clone this repository to your local environment using
    git clone git@github.com:swhite45/Horiseon-home-page.git
-<br>
+
 2) Follow the URL link below to view the home page on your web browser 
 
 <h2> Usage </h2>
