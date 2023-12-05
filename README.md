@@ -1,9 +1,11 @@
 # Horiseon-home-page
+Description 
+
 Installation
 To view the home page:
 1) Clone this repository to your local environment using
-2) git clone 
-3) 
+   git clone git@github.com:swhite45/Horiseon-home-page.git
+2) 
 
 Usage
 
