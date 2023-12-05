@@ -32,13 +32,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
+    display: inline-block;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-right: 25px;
 }
 
 a {
@@ -54,7 +55,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("/Users/sophiewhite/bootcamp/Horiseon-home-page/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
