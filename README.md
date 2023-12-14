@@ -15,6 +15,8 @@ To view the Horiseon home page:
 
 https://swhite45.github.io/Horiseon-home-page.github.io/
 
+<img width="500" alt="Horiseon-home-page-screenshot" src="https://github.com/swhite45/Horiseon-home-page.github.io/assets/149956866/dc988820-49fd-44b2-aeca-713b8cf57e19">
+
 
 <h2> Usage </h2>
 
